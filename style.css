@@ -1,0 +1,45 @@
+header{
+    background-color:#1A1A1A;
+    color:white;
+}
+.navigation{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+a{
+    text-decoration:none;
+    margin:0 10px;
+    font-size: 20px;
+    color: white;
+}
+h2{
+    font-size:70px;
+    color:white;
+    padding:200px;
+    margin:0px;
+}
+main{
+    background-color:#1A1A1A;
+}
+.photo{
+    display:flex;
+    justify-content: space-around;
+}
+h3{
+    color: white;
+    font-size: 50px;
+    margin: 20px;
+}
+.discription{
+    display: flex;
+    color: white;
+}
+h4{
+    margin: 60px;
+    font-size: 50px;
+}
+p{
+    margin: 60px;
+    font-size: 30px;
+}
